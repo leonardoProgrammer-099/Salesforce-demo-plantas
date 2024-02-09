@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentAsset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isVisibleByExternalUsers>false</isVisibleByExternalUsers>
+    <language>en_US</language>
+    <masterLabel>X477fa2cb47c3f126c9a71828735ce53cico</masterLabel>
+    <relationships>
+        <organization>
+            <access>VIEWER</access>
+        </organization>
+    </relationships>
+    <versions>
+        <version>
+            <number>1</number>
+            <pathOnClient>477fa2cb47c3f126c9a71828735ce53c-icono-de-naturaleza-bota-nica-pequea-a-planta.png</pathOnClient>
+        </version>
+    </versions>
+</ContentAsset>
